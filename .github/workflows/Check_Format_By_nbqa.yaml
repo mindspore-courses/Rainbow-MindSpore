@@ -28,5 +28,6 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+        pip install --upgrade flake8 importlib-metadata
     - name: Run nbqa
       run: nbqa flake8 ./*.ipynb
