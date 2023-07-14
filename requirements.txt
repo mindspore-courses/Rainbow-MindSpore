@@ -1,0 +1,16 @@
+IPython
+requests
+tqdm
+git+https://github.com/mindspore-lab/mindnlp
+mindspore
+pytest
+flake8
+nbqa
+numpy
+PyVirtualDisplay==3.0
+pre-commit
+matplotlib                      == 3.5.1
+pyglet                          == 1.5.15
+gymnasium[classic-control]      == 0.28.1
+moviepy                         == 1.0.3
+importlib-metadata
