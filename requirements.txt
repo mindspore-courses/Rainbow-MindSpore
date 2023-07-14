@@ -1,0 +1,13 @@
+IPython
+requests
+tqdm
+git+https://github.com/mindspore-lab/mindnlp
+mindspore
+pytest
+flake8
+nbqa
+numpy
+PyVirtualDisplay==3.0
+gymnasium == 0.28.1
+matplotlib
+pre-commit
