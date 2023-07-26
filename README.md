@@ -1,5 +1,3 @@
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
-
 *Thank you for Curt Park's open source, which has been adapted from open source code*
 # Rainbow-MindSpore!
 
